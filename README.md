@@ -2,4 +2,7 @@
 The following module covers : <br>
 - HTML <br>
 - CSS <br>
-- JavaScript
+- JavaScript <br>
+- React <br>
+- APIs <br>
+- Git <br> 
