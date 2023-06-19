@@ -12,12 +12,12 @@ let count = 0
 
 function increment() {
     count += 1 
-    countEl.innerText = count
+    countEl.textContent = count
     console.log(count )
 }
 
 function save() {
     let countStr = count + " - "
-    saveEl.innerHTML += countStr
+    saveEl.textContent += countStr
     console.log(countStr)
-}
+} 
