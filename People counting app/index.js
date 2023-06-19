@@ -6,15 +6,18 @@
 // reflect the changes
 
 let countEl = document.getElementById("count-el") // specifying ID of element we want to grab
+let saveEl = document.getElementById("save-el")
 
 let count = 0
 
 function increment() {
-    count = count + 1 
+    count += 1 
     countEl.innerText = count
     console.log(count )
 }
 
 function save() {
-    
+    let countStr = count + " - "
+    saveEl.innerHTML += countStr
+    console.log(countStr)
 }
