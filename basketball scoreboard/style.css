@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color:royalblue;
+}
+
+@font-face {
+    font-family: points;
+    src: url(CursedTimerUlil-Aznm.ttf);
+}
+
+@font-face {
+    font-family: score;
+    src: url(Rubik-Italic-VariableFont_wght.ttf);
+}
+
+h3 { 
+    font-family: score;
+    color: white;
+    font-size: 52px;
+    margin-bottom: 0;
+
+}
+
+.score {
+    display: flex;
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+    border-radius: 10px;
+    font-family: points;
+    padding-left: 45px;
+    justify-content: end;
+    padding-top: 10px;
+    padding-right: 10px ;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    background: none;
+    color: aliceblue;
+    font-family: points;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+button:hover {
+    color: #F94F6D;
+    transform: translateY(-5px);
+}
+
+
