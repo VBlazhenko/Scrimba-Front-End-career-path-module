@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: darkcyan;
+    background-color:darkgreen;
     text-align: center;
     color: white;
     font-weight: bold;
@@ -17,6 +17,9 @@ h1 {
 }
 
 button {
+    display: flex;
+    margin: 5px;
+    text-align: center;
     background-color: goldenrod;
     color: darkcyan;
     padding: 6px 25px;
@@ -24,4 +27,11 @@ button {
     border: none;
     font-weight: bold;
     font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button:hover {
+    background-color: gold;
+    transform: translateY(-3px);
 }
