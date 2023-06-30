@@ -13,6 +13,6 @@ Here are some of the works i did in this module: <br>
 ![basketball](https://github.com/VBlazhenko/Scrimba-Front-End-career-path-module/assets/78543274/22b5db9e-5f0b-4615-810d-a238f95b8bad)
 https://precious-kringle-993d4d.netlify.app/ <br>
 2. Created a people counting app. The following app can be used to count people in places such as metro, playground and others. <br>
-![people](https://github.com/VBlazhenko/Scrimba-Front-End-career-path-module/assets/78543274/874e0583-3808-4e7e-8270-4dee44f4b3fb)
+![people](https://github.com/VBlazhenko/Scrimba-Front-End-career-path-module/assets/78543274/874e0583-3808-4e7e-8270-4dee44f4b3fb)<br>
 https://animated-duckanoo-c11951.netlify.app/ <br>
 
